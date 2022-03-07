@@ -1,0 +1,7 @@
+D:\douglas sem 1\RajatK_Assign1\RajatK_Assign1\bin\Debug\RajatK_Assign1.exe.config
+D:\douglas sem 1\RajatK_Assign1\RajatK_Assign1\bin\Debug\RajatK_Assign1.exe
+D:\douglas sem 1\RajatK_Assign1\RajatK_Assign1\bin\Debug\RajatK_Assign1.pdb
+D:\douglas sem 1\RajatK_Assign1\RajatK_Assign1\obj\Debug\RajatK_Assign1.csproj.AssemblyReference.cache
+D:\douglas sem 1\RajatK_Assign1\RajatK_Assign1\obj\Debug\RajatK_Assign1.csproj.CoreCompileInputs.cache
+D:\douglas sem 1\RajatK_Assign1\RajatK_Assign1\obj\Debug\RajatK_Assign1.exe
+D:\douglas sem 1\RajatK_Assign1\RajatK_Assign1\obj\Debug\RajatK_Assign1.pdb
